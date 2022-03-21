@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "1265d75840e734a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "be31f6a220bc4842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mysql/如何创建有效索引.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c1942708bb5c99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "595abb3d0775e7d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61668b137acc1008",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "afa910452a5a483f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "504d45e97f9ab092",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f25985949025759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfab1e0285f546ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mysql/如何创建有效索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "be31f6a220bc4842",
+  "lastOpenFiles": [
+    "mysql/如何创建有效索引.md",
+    "笔记/因为实现不了Promise.all，一场面试凉凉了 - 掘金.md",
+    "mysql/MySQL优化：如何避免回表查询？什么是索引覆盖？ (转) - myseries - 博客园.md",
+    "62.md",
+    "mysql/使用 JOIN 实现表关联，面试挂了！ - 掘金.md",
+    "mysql/阿里大佬作出解释：MySQL真的不建议delete删除数据.md",
+    "mysql/面试官：数据库自增 ID 用完了会咋样？ - 掘金.md",
+    "git日常操作/git push -u.md",
+    "git pull时 忽略文件和文件夹.md",
+    "git日常操作/git 回退操作.md"
+  ]
+}
